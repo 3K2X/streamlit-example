@@ -1,3 +1,5 @@
-altair
-pandas
-streamlit
+numpy
+cv2
+PIL
+joblib
+tensorflow
